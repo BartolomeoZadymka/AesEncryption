@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>POD_projekt_Bartlomiej_Misiak_K60</RootNamespace>
+  </PropertyGroup>
+
+</Project>
